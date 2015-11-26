@@ -1,4 +1,4 @@
-# libs(一组常用的C++组件库)
+# libs(常用的C++组件库)
 
 ## based
 - `charset_convert.h`   
